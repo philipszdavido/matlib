@@ -1,0 +1,3 @@
+Matrix.prototype.dotproduct = function() {
+
+}

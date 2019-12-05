@@ -1,0 +1,1 @@
+Matrix.prototype.transpose = function() {}
